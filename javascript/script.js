@@ -8,3 +8,8 @@ function triangle() {
       var sideC = parseInt(document.getElementById('c').value);
       console.log(sideC);
       // console.log(sideC);
+      if(((sideA+sideB !=sideC) || (sideA+sideC!=sideB) || (sideB+sideC!=sideA)) && ((sideA+sideB<sideC) || (sideA+sideC<sideB) || (sideB+sideC<sideA))){
+     console.log("so far so good");
+     // console.log("so far so good");
+     document.getElementById("result").innerHTML = "Not a triangle";
+ }
