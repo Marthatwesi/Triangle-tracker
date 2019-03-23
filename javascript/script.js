@@ -19,4 +19,8 @@ function triangle() {
     console.log("we are still working")
     // console.log("we are still working")
 document.getElementById("result").innerHTML = "Equilateral triangle";
+  } else if ((sideA === sideB != sideC) || (sideB === sideC != sideA) || (sideA === sideC != sideB)) {
+    console.log("ts there")
+    // console.log("ts there")
+    document.getElementById("result").innerHTML = "Isosceles triangle"
   }
