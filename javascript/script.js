@@ -15,4 +15,8 @@ function triangle() {
  }else if (sideA != sideB && sideB != sideC && sideA != sideC) {
      // console.log("working")
      document.getElementById("result").innerHTML = "Scalene triangle";
-   }
+   }else if (sideA === sideB && sideB === sideC && sideA === sideC) {
+    console.log("we are still working")
+    // console.log("we are still working")
+document.getElementById("result").innerHTML = "Equilateral triangle";
+  }
