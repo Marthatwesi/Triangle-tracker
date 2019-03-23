@@ -10,3 +10,9 @@ p{
   font-size: 20px;
   text-align: center;
 }
+.button{
+  display: flex; justify-content: center;
+}
+body{
+  background-color: grey;
+}
