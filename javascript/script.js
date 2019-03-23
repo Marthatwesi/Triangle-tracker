@@ -24,3 +24,9 @@ document.getElementById("result").innerHTML = "Equilateral triangle";
     // console.log("ts there")
     document.getElementById("result").innerHTML = "Isosceles triangle"
   }
+  else {
+   console.log("we are done")
+   // console.log("we are done")
+   document.getElementById("result").innerHTML = "Not a triangle"
+ }
+}
