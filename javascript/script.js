@@ -12,4 +12,7 @@ function triangle() {
      console.log("so far so good");
      // console.log("so far so good");
      document.getElementById("result").innerHTML = "Not a triangle";
- }
+ }else if (sideA != sideB && sideB != sideC && sideA != sideC) {
+     // console.log("working")
+     document.getElementById("result").innerHTML = "Scalene triangle";
+   }
