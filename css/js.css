@@ -10,7 +10,7 @@ p{
   font-size: 20px;
   text-align: center;
 }
-.button{
+#result{
   display: flex; justify-content: center;
 }
 body{
