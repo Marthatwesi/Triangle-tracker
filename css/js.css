@@ -1,4 +1,3 @@
-
 html,body{
   height:100%;
   widith:100%;
@@ -10,6 +9,9 @@ html,body{
   margin:auto;
   top: 0;
   background-size: cover;
+}
+h1{
+  color: maroon;
 }
 p{
   font-family: 'Gloria Hallelujah', cursive;
@@ -23,8 +25,8 @@ p{
   display: flex; justify-content: center;
   margin-left: 25px;
 }
-.body{
-  background: grey;
+.container{
+  background: green;
 opacity: 0.7;
 width: 60%;
 padding: 70px;
