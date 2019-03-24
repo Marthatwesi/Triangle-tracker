@@ -1,11 +1,15 @@
-@import url('https://fonts.googleapis.com/css?family=Yantramanav:100');
-@import url('https://fonts.googleapis.com/css?family=Montserrat:400');
+
 html,body{
   height:100%;
   widith:100%;
-  
+  align-content: center;
 }
-
+.intro{
+  height: 100%;
+  widith:100%;
+  margin:auto;
+  top: 0;
+  background-size: cover;
 }
 p{
   font-family: 'Gloria Hallelujah', cursive;
