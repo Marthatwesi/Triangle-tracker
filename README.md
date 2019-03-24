@@ -11,7 +11,7 @@ git must be installed in your computer, if not use the following command in your
 Use this command ($ git clone https://github.com/Marthatwesi/Triangle-tracker.git
 This will clone the repository to your local folder
 Link to deployed site
-Here is a link to live site of this project on github pages:
+Here is a link to live site of this project on github pages:https://marthatwesi.github.io/Triangle-tracker/.
 
 Technologies Used
 HTML
