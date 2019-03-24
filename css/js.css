@@ -13,6 +13,14 @@ p{
 #result{
   display: flex; justify-content: center;
 }
-body{
-  background-color: grey;
+.refresh{
+  display: flex; justify-content: center;
+  margin-left: 25px;
+}
+.body{
+  background: grey;
+opacity: 0.7;
+width: 60%;
+padding: 70px;
+margin:20px auto;
 }
