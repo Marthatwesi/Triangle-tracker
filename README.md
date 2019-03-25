@@ -13,9 +13,9 @@ This will clone the repository to your local folder
 Link to deployed site
 <<<<<<< HEAD
 Here is a link to live site of this project on github pages:
-https://marthatwesi.github.io/Triangle-tracker/.
+https://marthatwesi.github.io/Triangle-tracker/
 =======
-Here is a link to live site of this project on github pages:https://marthatwesi.github.io/Triangle-tracker/.
+Here is a link to live site of this project on github pages:https://marthatwesi.github.io/Triangle-tracker/
 
 >>>>>>> 1d55ffc38d97b4c1635f501d08b83b5802a71361
 Technologies Used
