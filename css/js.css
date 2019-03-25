@@ -1,7 +1,8 @@
-html,body{
+body{
   height:100%;
-  widith:100%;
+  width:100%;
   align-content: center;
+  background-image: url(https://afinde-production.s3.amazonaws.com/uploads/c21cd981-cce3-4b5e-aefd-151801706fcb.gif);
 }
 .intro{
   height: 100%;
@@ -13,6 +14,7 @@ html,body{
 h1{
   color: maroon;
 }
+
 p{
   font-family: 'Gloria Hallelujah', cursive;
   font-size: 20px;
@@ -27,7 +29,7 @@ p{
 }
 .container{
   background: green;
-opacity: 0.7;
+opacity: 0.8;
 width: 60%;
 padding: 70px;
 margin:20px auto;
