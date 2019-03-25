@@ -7,7 +7,7 @@ TWESIGYE MARTHA
 
 This is a webpage that allows users to input values for three sides of a triangle and determine whether it is an equilateral, Isosceles,scalene or not a triangle at all.
 
-##Setup/Installation requirements
+## Setup/Installation requirements
 git must be installed in your computer, if not use the following command in your terminal ($ sudo apt install git-all)
 Use this command ($ git clone https://github.com/Marthatwesi/Triangle-tracker.git
 This will clone the repository to your local folder
@@ -17,7 +17,7 @@ Link to deployed site
 Here is a link to live site of this project on github pages:https://marthatwesi.github.io/Triangle-tracker/.
 
 
-##Technologies Used
+## Technologies Used
 HTML
 CSS
 Javascript
