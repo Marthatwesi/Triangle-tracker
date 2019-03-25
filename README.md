@@ -1,6 +1,6 @@
 # Triangle-Tracker
 
-Author
+# Author
 TWESIGYE MARTHA
 
 ## Description
